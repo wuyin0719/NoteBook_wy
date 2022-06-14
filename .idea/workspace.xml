@@ -19,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="7f39cb0b-9b8a-440a-ae47-ddf52273cee5" />
   <component name="ProjectId" id="2AStW8H6xqFxhhjHhnsPvvF14e3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,13 +30,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/work/linux" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wy\code\NoteBook_wy\work\linux" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,6 +55,13 @@
       <option name="presentableId" value="Default" />
       <updated>1655014842365</updated>
       <workItem from="1655014844107" duration="960000" />
+      <workItem from="1655089194989" duration="1942000" />
+      <workItem from="1655091148242" duration="4029000" />
+      <workItem from="1655102481203" duration="1441000" />
+      <workItem from="1655104046758" duration="1274000" />
+      <workItem from="1655106517956" duration="5191000" />
+      <workItem from="1655116207441" duration="7709000" />
+      <workItem from="1655194261831" duration="8110000" />
     </task>
     <servers />
   </component>
@@ -64,5 +78,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655193700049">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="699" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1655193700049" />
+    <state x="690" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1655191795848">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1655191795848" />
+    <state x="740" y="270" key="FileChooserDialogImpl" timestamp="1655194289914">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="270" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1655194289914" />
+    <state x="1264" y="404" key="GrepConsoleSound" timestamp="1655192029874">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1264" y="404" key="GrepConsoleSound/0.0.1920.1032@0.0.1920.1032" timestamp="1655192029874" />
+    <state x="922" y="207" key="SettingsEditor" timestamp="1655104081979">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="922" y="207" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1655104081979" />
   </component>
 </project>
