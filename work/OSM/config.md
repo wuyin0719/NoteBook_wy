@@ -5,10 +5,10 @@
 账号/密码：	root/Sutpco81   
 
 
+#OSM备份导出      
 
 cd /usr/local/openstreetmap-website     
 docker-compose exec web bash   
-**导出**      
 osmosis --read-apidb host="db" database="openstreetmap" user="openstreetmap" password="openstreetmap"
 validateSchemaVersion="no" --write-pbf bak202202232003.osm.pbf  
 
