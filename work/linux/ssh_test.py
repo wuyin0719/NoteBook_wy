@@ -70,3 +70,16 @@ if __name__ == '__main__':
 
     print(result)
     paramik.close()
+
+
+
+# import time, paramiko
+#
+# ssh = paramiko.SSHClient()
+# ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy)
+# ssh.connect(ip, port, username, password, timeout=10)
+# invoke = ssh.invoke_shell()
+# invoke.send("python3 /root/test.py \n")  # \n很重要，相当于回车
+# time.sleep(2)  # 等待命令执行完毕
+# # invoke.recv(9999).decode("utf-8")   # 提取数据然后解码
+# ssh.close()
