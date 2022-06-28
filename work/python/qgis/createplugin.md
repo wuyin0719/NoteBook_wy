@@ -22,3 +22,12 @@ about=OSM相关的数据处理流程
 "C:\Program Files\QGIS 3.22.7\apps\Python39\Scripts\pyuic5.exe" -o resources.py resources.qrc
 "C:\Program Files\QGIS 3.22.7\apps\Python39\Scripts\pyrcc5.exe" -o resources.py resources.qrc
 "C:\Users\Lneovo\AppData\Local\Programs\Python\Python37\Scripts\pyrcc5.exe" -o resources.py resources.qrc
+
+
+
+
+
+* Processing provider
+
+![](.createplugin_images/8232e4ed.png)
+![](.createplugin_images/116bb0d3.png)
